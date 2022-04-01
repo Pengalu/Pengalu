@@ -1,4 +1,5 @@
-Hey, I'm Peng. This is my github.
+Hi
 
-I'm fairly inactive here since Roblox (the main engine I work in) has it's own Git - like system, but I'll post other work here occasionally.
-I do work on games from Infinity Developers and contributed some assets to Bloxsona 5.
+I do the funny smack keyboard and sometimes the thing do things
+
+why are you here? my code is so incredibly bad that you'd get nothing out of this.
