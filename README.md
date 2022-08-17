@@ -6,5 +6,6 @@ java hell
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pengalu&theme=synthwave" alt="Pengalu"/>
 <br>
-![snake gif](https://github.com/Pengalu/Pengalu/blob/output/github-contribution-grid-snake.gif)#gh-dark-mode-only
+![snake gif](https://github.com/Pengalu/Pengalu/blob/output/github-contribution-grid-snake.gif)
+![snake gif dark](https://github.com/Pengalu/Pengalu/blob/output/github-contribution-grid-snake.gif?palette=github-dark)
 
