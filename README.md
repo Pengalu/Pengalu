@@ -7,4 +7,4 @@ java hell
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pengalu&theme=synthwave" alt="Pengalu"/>
 <br>
 ![snake gif]
-(https://github.com/Pengalu/Pengalu/blob/output/github-contribution-grid-snake.gif?raw=true)
+(https://github.com/Pengalu/Pengalu/blob/output/github-contribution-grid-snake.gif)
