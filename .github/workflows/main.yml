@@ -33,7 +33,16 @@ jobs:
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
 
           svg_out_path: dist/github-snake.svg
-          svg_out_path_dark: dist/github-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/github-snake.gif #dist/github-snake-dark.svg?palette=github-dark
+      - uses: Platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: Pengalu
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+
+          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/github-snake.gif?palette=github-dark
+
 
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
