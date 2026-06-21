@@ -1,3 +1,6 @@
+Just go check out my website!
+https://pengalu.me/
+
 Hi, I'm Nathan, I'm a jack-of-all-trades problem solver with experience in robotics and game-development. I've made various demo projects, especially in Godot, and I am the head of software/electrical work for First Robotics Competition Team 2485, Overclocked. I specialize in electronics and odometry for the robotics team, but I have experience in CAD (Certified SolidWorks Associate) and PCB Design in KiCAD. I am also a software developer working on IK simulation for the combat-robotics team Mutant Robotics. In my free time, I have fought antweight combat robots in SCAR and work on Minecraft mods.
 
 Recent Projects: <br>
